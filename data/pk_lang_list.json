@@ -1,0 +1,51 @@
+ [
+    {
+      "id": "01",
+      "name": "Chinese",
+      "lang": "Chinese (China) 🇨🇳",
+      "local": "zh_ZH"
+    },
+    {
+      "id": "02",
+      "name": "English",
+      "lang": "English (U.S.A) 🇺🇸",
+      "local": "en_US"
+    
+    },
+    {
+      "id": "03",
+      "name": "English",
+      "lang": "English (United Kingdom) 🇬🇧",
+      "local": "en_UK"
+    },
+    {
+      "id": "04",
+      "name": "Finnish",
+      "lang": "Finnish (Finland) 🇫🇮",
+      "local": "fi_FI"
+    },
+    {
+      "id": "05",
+      "name": "French",
+      "lang": "French (France) 🇫🇷",
+      "local": "fr_FR"
+    },
+    {
+      "id": "06",
+      "name": "Hindi",
+      "lang": "Hindi (India) 🇮🇳",
+      "local": "hi_HI"
+    },
+    {
+      "id": "07",
+      "name": "Sinhala",
+      "lang": "Sinhala (Sri lanka) 🇱🇰",
+      "local": "sr_SR"
+    },
+    {
+      "id": "08'",
+      "name": "Tamill",
+      "lang": "Tamil (Sri lanka) 🇱🇰",
+      "local": "tl_TL"
+    }
+  ]
